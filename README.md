@@ -189,5 +189,67 @@ A college ERP system designed to digitally manage and organize different college
                            │
                            ▼
                     🚀 Keep Building
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mokshjshah07-max">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mokshjshah07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+### 💻 GitHub
+
+I use GitHub to share my coding journey, build projects, practice programming, and document what I'm learning.
+
+- 🚀 Real-world projects
+- 🐍 Python & Java development
+- ⚙️ C & C++ programming
+- 🌐 Web development
+- 🗄️ MySQL projects
+- 📚 Coding practice
+- 🔧 Experiments and new ideas
+
+### 💼 LinkedIn
+
+I use LinkedIn to share my professional journey, projects, learning experiences, achievements, and connect with people in the technology community.
+
+- 🎓 Academic journey
+- 🚀 Projects
+- 📚 Learning experiences
+- 🏆 Achievements
+- 💻 Technical growth
+- 🤝 Professional networking
+
+---
+
+## 📬 Contact
+
+<p align="center">
+
+📧 <b>mokshjshah07@gmail.com</b>
+
+<br><br>
+
+<a href="https://github.com/mokshjshah07-max">
+  <img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 

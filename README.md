@@ -189,5 +189,5 @@ A college ERP system designed to digitally manage and organize different college
                            │
                            ▼
                     🚀 Keep Building
-<p align="center"> <a href="mailto:mokshjshah07@gmail.com"> <img src="https://img.shields.io/badge/Gmail-mokshjshah07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/mokshjshah07-max"> <img src="https://img.shields.io/badge/GitHub-Moksh%20Shah-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/mokshjshah"> <img src="https://img.shields.io/badge/LinkedIn-Moksh%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
 
